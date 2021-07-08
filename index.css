@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: auto;
+  height: 50vh;
+  border: 2px solid black;
+}
+
+.bg {
+  background: url("https://media.giphy.com/media/xT9IgwWOpd4sJVuDe0/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  border: none;
+  background-attachment: fixed;
+}
+
+.test {
+  background-color: whitesmoke;
+}
+
+.bg2 {
+  height: auto;
+}
